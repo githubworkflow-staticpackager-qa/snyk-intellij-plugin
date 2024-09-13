@@ -1,4 +1,4 @@
----                                                       new test 1 2
+---                                                       new test 1 2 3
 description: Use this documentation to get started with the JetBrains plugin.
 ---
 
